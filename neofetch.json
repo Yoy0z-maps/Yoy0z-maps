@@ -1,0 +1,66 @@
+{
+  "coloredImage": false,
+  "removeBackground": true,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "macOS" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Role", "value": "Software Engineer" },
+        { "key": "IDE", "value": "VS Code, Claude Code" }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "key": "Languages.Programming",
+          "value": "TypeScript, Python, JavaScript"
+        },
+        {
+          "key": "Frontend",
+          "value": "React, Next.js"
+        },
+        {
+          "key": "Backend",
+          "value": "Django, Supabase"
+        },
+        {
+          "key": "Database",
+          "value": "PostgreSQL"
+        },
+        {
+          "key": "Interests",
+          "value": "AI, Machine Learning, UI/UX"
+        },
+        {
+          "key": "Hobbies",
+          "value": "Guitar, Fitness"
+        }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        {
+          "key": "GitHub",
+          "value": "github.com/{{username}}"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "Followers", "value": "{{followers}}" }
+      },
+      "loc"
+    ]
+  }
+}
