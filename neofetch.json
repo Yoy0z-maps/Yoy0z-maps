@@ -5,9 +5,10 @@
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "OS", "value": "macOS" },
+        { "key": "OS", "value": "Windows, macOS" },
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Role", "value": "Software Engineer" },
+        { "key": "Host", "value": "NVIDIA AI CAMPUS" },
         { "key": "IDE", "value": "VS Code, Claude Code" }
       ]
     },
@@ -18,16 +19,8 @@
           "value": "TypeScript, Python, JavaScript"
         },
         {
-          "key": "Frontend",
-          "value": "React, Next.js"
-        },
-        {
-          "key": "Backend",
-          "value": "Django, Supabase"
-        },
-        {
-          "key": "Database",
-          "value": "PostgreSQL"
+          "key": "Languages.Real",
+          "value": "Korean, Chinese, English"
         },
         {
           "key": "Interests",
@@ -43,8 +36,12 @@
       "title": "- Contact",
       "fields": [
         {
-          "key": "GitHub",
-          "value": "github.com/{{username}}"
+          "key": "Email",
+          "value": "work.johnhan@gmail.com"
+        },
+        {
+          "key": "LinkedIn",
+          "value": "in/john-han-3b1b2b349/"
         }
       ]
     }
