@@ -9,14 +9,14 @@
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Role", "value": "Software Engineer" },
         { "key": "Host", "value": "NVIDIA AI CAMPUS" },
-        { "key": "IDE", "value": "VS Code, Claude Code" }
+        { "key": "IDE", "value": "VS Code, XCode" }
       ]
     },
     {
       "fields": [
         {
           "key": "Languages.Programming",
-          "value": "TypeScript, Python, JavaScript"
+          "value": "TypeScript, Python"
         },
         {
           "key": "Languages.Real",
@@ -24,7 +24,7 @@
         },
         {
           "key": "Interests",
-          "value": "AI, Machine Learning, UI/UX"
+          "value": "AI, FE/BE, UI/UX"
         },
         {
           "key": "Hobbies",
@@ -42,6 +42,19 @@
         {
           "key": "LinkedIn",
           "value": "in/john-han-3b1b2b349/"
+        }
+      ]
+    },
+    {
+      "title": "- App",
+      "fields": [
+        {
+          "key": "Fine-Studio",
+          "value": "id6758371923"
+        },
+        {
+          "key": "오늘의 문장",
+          "value": "id6809145944?"
         }
       ]
     }
